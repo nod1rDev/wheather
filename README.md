@@ -168,8 +168,8 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 
-- Phone: +998 90 123-45-67
-- Telegram: @telegram_link
+- Phone: +998 77 100-40-84
+- Telegram: @nodir_dev
 
 ## 🙏 Acknowledgments
 
