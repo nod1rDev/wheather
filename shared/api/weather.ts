@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const API_KEY = process.env.OPENWEATHER_API_KEY
+const API_KEY = "d4aa0904849d039f64c416c30f677c73"
 const BASE_URL = "https://api.openweathermap.org/data/2.5"
 
 // API_KEY mavjudligini tekshirish endi har bir funksiya ichida amalga oshiriladi.
