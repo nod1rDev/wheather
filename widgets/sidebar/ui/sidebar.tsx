@@ -188,7 +188,7 @@ export function Sidebar() {
 
             <div className="flex space-x-2 pt-2">
               <motion.a
-                href="https://github.com/nod1rDev/newWeather"
+                href="https://github.com/nod1rDev/wheather"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="flex-1 p-2.5 bg-gray-100 dark:bg-gray-800 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors flex items-center justify-center focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
