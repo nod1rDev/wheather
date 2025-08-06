@@ -1,0 +1,53 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-e728e274e46db57b.js",
+      "static/chunks/4bd1b696-dea0f7e89e6c7bf1.js",
+      "static/chunks/684-5ebe92298d8d8686.js",
+      "static/chunks/main-app-822e4762571a4743.js",
+      "static/chunks/app/_not-found/page-67f06e86952df0f7.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-e728e274e46db57b.js",
+      "static/chunks/4bd1b696-dea0f7e89e6c7bf1.js",
+      "static/chunks/684-5ebe92298d8d8686.js",
+      "static/chunks/main-app-822e4762571a4743.js",
+      "static/css/931b179cff3131dc.css",
+      "static/css/316dcf2d7c6e18c7.css",
+      "static/chunks/967-d7ff81701322d007.js",
+      "static/chunks/app/layout-2440dafc692abfdb.js"
+    ],
+    "/settings/page": [
+      "static/chunks/webpack-e728e274e46db57b.js",
+      "static/chunks/4bd1b696-dea0f7e89e6c7bf1.js",
+      "static/chunks/684-5ebe92298d8d8686.js",
+      "static/chunks/main-app-822e4762571a4743.js",
+      "static/chunks/617-db866ab00e28ee55.js",
+      "static/chunks/app/settings/page-487c4ec953b8d9c8.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-e728e274e46db57b.js",
+      "static/chunks/4bd1b696-dea0f7e89e6c7bf1.js",
+      "static/chunks/684-5ebe92298d8d8686.js",
+      "static/chunks/main-app-822e4762571a4743.js",
+      "static/chunks/94730671-51ee27b596c33139.js",
+      "static/chunks/617-db866ab00e28ee55.js",
+      "static/chunks/967-d7ff81701322d007.js",
+      "static/chunks/25-b8f2e84eb1b1ca68.js",
+      "static/chunks/989-bfa6a0c834383222.js",
+      "static/chunks/app/page-386fe4c3862f3002.js"
+    ],
+    "/forecast/page": [
+      "static/chunks/webpack-e728e274e46db57b.js",
+      "static/chunks/4bd1b696-dea0f7e89e6c7bf1.js",
+      "static/chunks/684-5ebe92298d8d8686.js",
+      "static/chunks/main-app-822e4762571a4743.js",
+      "static/chunks/94730671-51ee27b596c33139.js",
+      "static/chunks/617-db866ab00e28ee55.js",
+      "static/chunks/967-d7ff81701322d007.js",
+      "static/chunks/25-b8f2e84eb1b1ca68.js",
+      "static/chunks/989-bfa6a0c834383222.js",
+      "static/chunks/app/forecast/page-aeff6964772689f3.js"
+    ]
+  }
+}
